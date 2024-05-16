@@ -1,1 +1,4 @@
-this is th read me just as a test
+In the future this will bekome a palce for:
+nature
+travel
+and some smal tech related procekts
